@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luckyayush777
-- 👀 I’m interested in ... Unity, Game Development, Game Engines, Graphics, Backend stuff
-- 🌱 I’m currently learning ... Physics engines
-- 💞️ I’m looking to collaborate on ... Games, Game jams
+- 👀 I’m interested in ... Unity, Game Development, Game Engines, Graphics, Compilers
+- 🌱 I’m currently learning ... Compilers
+- 💞️ I’m looking to collaborate on ... Games, Game jams, new Languages 
 - 📫 How to reach me ... mail @ ayushrocks456@gmail.com
 
 <!---
